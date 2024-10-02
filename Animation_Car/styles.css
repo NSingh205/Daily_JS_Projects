@@ -9,7 +9,10 @@
 .container{
     background-image: URL("Photos/background.jpg");
     height: 45.7vw;
+    background-size: 100%;
 }
+
+
 
 
 .tree{
@@ -19,5 +22,35 @@
 
 .track{
     width:100%;
-   
+}
+
+.road-car{
+background-image: URL("Photos/track.png");
+}
+
+.car{
+    position: absolute;
+    height: 8vw;
+    width: 28vw;
+    margin-top: 26vw;
+    margin-left: 18vw;
+}
+
+
+
+#Tleft
+{
+    position: absolute;
+    margin-top: 29vw;
+    margin-left: 21.6vw;
+    height: 6vw;
+    width: 4.9vw;
+}
+
+#Tright{
+    position: absolute;
+    margin-top: 29vw;
+    margin-left: 35.6vw;
+    height: 6vw;
+    width: 4.9vw;
 }
