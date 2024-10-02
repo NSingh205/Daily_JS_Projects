@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+
+
+.container{
+    background-image: URL("Photos/background.jpg");
+    height: 45.7vw;
+}
+
+
+.tree{
+    height:32.5vw;
+    width:100%;
+}
+
+.track{
+    width:100%;
+   
+}
